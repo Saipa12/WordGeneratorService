@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGeneratorService", "WordGeneratorService\WordGeneratorService.csproj", "{6C143487-7ED2-4EE3-883D-43E0AB38C2C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{FE7F3C75-105E-4A37-BF3E-CBC90C8D4059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C143487-7ED2-4EE3-883D-43E0AB38C2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C143487-7ED2-4EE3-883D-43E0AB38C2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C143487-7ED2-4EE3-883D-43E0AB38C2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C143487-7ED2-4EE3-883D-43E0AB38C2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7F3C75-105E-4A37-BF3E-CBC90C8D4059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7F3C75-105E-4A37-BF3E-CBC90C8D4059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7F3C75-105E-4A37-BF3E-CBC90C8D4059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7F3C75-105E-4A37-BF3E-CBC90C8D4059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6B31D42-0B85-4BF1-AA38-36CCAACACC44}
+	EndGlobalSection
+EndGlobal
